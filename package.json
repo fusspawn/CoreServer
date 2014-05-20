@@ -1,0 +1,13 @@
+{
+  "name": "CoreServer",
+  "version": "0.0.0",
+  "description": "CoreServer",
+  "main": "app.js",
+  "author": {
+    "name": "Fusspawn",
+    "email": ""
+  },
+  "dependencies": {
+    "redis": "~0.10.1"
+  }
+}
